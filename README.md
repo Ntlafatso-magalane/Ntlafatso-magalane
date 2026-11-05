@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ntlafatso Faith Magalane 👋
 
-<!--
-**Ntlafatso-magalane/Ntlafatso-magalane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Economics & Informatics | Exploring AI & Machine Learning
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCom Economic Sciences degree candidate, majoring in Economics and Informatics, with an interest in using data and technology to solve business problems and support data-driven decision-making.
+
+I'm passionate about developing my technical skills and exploring how data analytics, artificial intelligence and machine learning can create meaningful solutions.
+
+### 🎓 Education
+- **Degree:** BCom Economic Sciences
+- **Majors:** Economics and Informatics
+- **Institution:** North-West University
+- **Completion:** November 2026
+
+### 💻 Technical Skills
+- **Programming:** Python
+- **Database Management:** SQL, Relational Database Concepts
+- **Data Analysis:** Microsoft Excel
+- **Other Knowledge:** Systems Analysis and Design, Decision Support Systems, Information Security
+
+### 🚀 Areas of Interest
+- Data Analytics and Business Intelligence
+- Artificial Intelligence (AI)
+- Machine Learning
+- Predictive Analytics
+- Data Engineering
+
+### 📚 Currently Learning
+- Advanced Python for Data Analysis
+- SQL and Database Management
+- Power BI and Data Visualisation
+- Machine Learning Fundamentals
+
+### 📊 Featured Projects
+*Portfolio projects are currently in development. Check back as I build and publish my work.*
+
+### 🤝 Let's Connect
+- **LinkedIn:** Add your LinkedIn profile URL here.
+- **GitHub:** [Ntlafatso-magalane](https://github.com/Ntlafatso-magalane)
+
+---
+
+*Learning, building and growing in the world of data and technology.*
