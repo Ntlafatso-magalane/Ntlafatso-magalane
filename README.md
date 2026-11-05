@@ -37,7 +37,8 @@ I'm passionate about developing my technical skills and exploring how data analy
 *Portfolio projects are currently in development. Check back as I build and publish my work.*
 
 ### 🤝 Let's Connect
-- **LinkedIn:** Add your LinkedIn profile URL here.
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/faithmagalane/)
 - **GitHub:** [Ntlafatso-magalane](https://github.com/Ntlafatso-magalane)
 
 ---
